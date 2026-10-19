@@ -1,64 +1,44 @@
-# CS-370: Current and Emerging Trends in Computer Science
+CS 370 Portfolio Reflection: Pirate Intelligent Agent
+Project Overview
 
-## About This Portfolio
+In this project, I developed a pirate intelligent agent using reinforcement learning techniques. The goal of the agent was to navigate the environment efficiently while maximizing rewards through trial-and-error learning. The project demonstrated how artificial intelligence agents can learn optimal behavior by interacting with an environment and receiving feedback based on their actions.
 
-Welcome to my GitHub portfolio for **CS-370: Current and Emerging Trends in Computer Science** at Southern New Hampshire University.
+The starter code provided the environment, game framework, and portions of the reinforcement learning implementation. The provided code included functions for creating the maze environment, defining rewards, and supporting the training process. I was responsible for implementing and refining the learning components of the intelligent agent. Specifically, I developed the code used to train the agent using a Deep Q-Network (DQN), including the neural network architecture, action selection strategy, experience replay process, and training loop. I also adjusted parameters and evaluated the agent's performance to improve learning outcomes.
 
-This repository contains selected coursework and projects that demonstrate my understanding of artificial intelligence, machine learning, intelligent systems, and emerging technologies in computer science.
+Connection to Computer Science
 
-## Course Overview
+This project helped connect the concepts learned throughout the course to the larger field of computer science. Reinforcement learning combines several computer science disciplines, including artificial intelligence, machine learning, data structures, algorithms, probability, and software engineering. The project demonstrated how these concepts work together to solve complex problems that require decision-making under uncertainty.
 
-Throughout CS-370, I am exploring concepts and techniques related to artificial intelligence and intelligent systems. The course provides opportunities to examine how AI algorithms can be used to solve complex problems and how these technologies are applied to real-world situations.
+Modern applications of reinforcement learning can be found in robotics, autonomous vehicles, financial modeling, recommendation systems, and game development. Through this project, I gained a deeper understanding of how intelligent systems are designed, trained, and evaluated to solve real-world challenges.
 
-## Projects and Coursework
+What Do Computer Scientists Do and Why Does It Matter?
 
-This portfolio will include selected work from CS-370, including:
+Computer scientists develop solutions to problems using computational methods. They design software, create algorithms, analyze data, and build systems that improve efficiency and decision-making. Their work matters because technology impacts nearly every aspect of modern life, from healthcare and education to transportation and communication.
 
-* Artificial intelligence and intelligent system concepts
-* Reinforcement learning
-* Deep Q-learning
-* Neural networks
-* Machine learning algorithms
-* AI problem-solving techniques
-* Analysis of emerging trends in computer science
+This project highlighted how computer science can be used to create intelligent systems that learn from experience. By building an agent capable of making increasingly better decisions, I gained insight into how artificial intelligence can be applied to practical problems.
 
-### Treasure Hunt / Deep Q-Learning Project
+How Do I Approach a Problem as a Computer Scientist?
 
-One of the major projects in this course involves developing a reinforcement learning solution for a treasure hunt game. The project uses a Deep Q-Network (DQN) to train an intelligent agent to navigate a maze and locate treasure.
+I approach problems by first understanding the requirements and identifying the desired outcome. Next, I break the problem into smaller, manageable components and develop a strategy for solving each part. I then implement, test, and refine the solution while evaluating performance and correctness.
 
-The project demonstrates concepts including:
+During this project, I followed this process by analyzing the environment, understanding the reinforcement learning framework, implementing the DQN algorithm, testing different configurations, and evaluating the agent's ability to reach its goals. Continuous testing and improvement were essential to producing a successful solution.
 
-* Reinforcement learning
-* Q-learning
-* Deep neural networks
-* Experience replay
-* Exploration and exploitation
-* Reward-based learning
-* Training an intelligent agent through repeated interactions with an environment
+What Are My Ethical Responsibilities to the End User and the Organization?
 
-## Learning Goals
+As a computer scientist, I have ethical responsibilities to both end users and organizations. These responsibilities include developing reliable and secure systems, protecting privacy, ensuring fairness, and minimizing potential harm. Software should be designed to operate safely and transparently while maintaining user trust.
 
-Through this course and the projects included in this portfolio, I am developing my ability to:
+When working with artificial intelligence systems, ethical considerations become especially important because decisions made by intelligent agents can have significant consequences. Developers must ensure that systems are tested appropriately, function as intended, and do not introduce unintended biases or risks. Maintaining professional integrity, protecting data, and designing responsible solutions are essential obligations for all computer science professionals.
 
-* Explain fundamental concepts related to artificial intelligence.
-* Analyze how AI algorithms solve complex problems.
-* Apply machine learning techniques to practical problems.
-* Understand how intelligent systems learn from their environments.
-* Evaluate the strengths and limitations of different AI approaches.
-* Develop and document software that incorporates AI techniques.
-
-## Technologies
-
-The coursework in this repository may include technologies such as:
-
-* Python
-* TensorFlow
-* Keras
-* NumPy
-* Jupyter Notebook
-* GitHub
-* Reinforcement Learning
-* Deep Q-Networks (DQN)
+Skills Demonstrated
+Reinforcement Learning
+Deep Q-Networks (DQN)
+Neural Networks
+Machine Learning
+Python Programming
+Algorithm Development
+Problem Solving
+Model Training and Evaluation
+Software Testing and Debugging
 
 ## About Me
 
